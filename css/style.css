@@ -4361,6 +4361,8 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 		height: 100%;
 		overflow-y: scroll;
 		padding-right: 40px;
+		background-color: #1d3557;
+		border-bottom: 1px solid #efefef;
 	}
 
 	.side-header #header-wrap > .container {
